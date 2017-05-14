@@ -1,9 +1,12 @@
 ---
 title: Designing with the Users in Mind
-date: 2014-01-19 06:00:00
+date: 2015-09-28 06:00:00
 category: Essay
-tags: Agile
+tags: 
+ - Agile
+ - Cesar Para
 ---
-Having hard data from real user tests is oftentimes the best practice but is not always plausible, especially for smaller, “less risky” changes to the interface. This is where heuristic evaluations come in. -- [Read More at NimbleAMS.com](http://www.nimbleams.com/blog/2015/9/28/designing-with-the-users-mind-in-mind/)
-<div align="center"><img src="http://www.nimbleams.com/media/187604/nimble-ams-usability-on-the-salesforce-platform.jpg" width="25%" height="25%"/>
+[Cesar Para] Having hard data from real user tests is often times the best practice but is not always plausible, especially for smaller, “less risky” changes to the interface. This is where heuristic evaluations come in. As far a user experience goes, heuristics are rules of thumb that can guide usability.
+-- [Read more at NimbleUser](http://www.nimbleuser.com/blog/designing-with-the-users-mind-in-mind)
+<div align="center"><img src="http://www.nimbleuser.com/uploads/9/4/3/7/94371761/nimble-ams-usability-on-the-salesforce-platform.jpg?309" width="25%" height="25%"/>
 </div>

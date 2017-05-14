@@ -18,7 +18,7 @@ timezone: America/New_York
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.DreamOps.org
 root: /
-permalink: :year/:month/:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -64,10 +64,27 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+# Generator-Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: freemind
+
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

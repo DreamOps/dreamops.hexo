@@ -2,9 +2,11 @@
 title: "A Seriously Nimble (And Free) Tool That Every App Builder Needs"
 date: 2016-02-22 06:00:00
 category: Review
-tags: App Building
+tags: 
+ - App Building
+ - Matt Simonis
 ---
-Boost your admin and developer productivity on Salesforce.com and Nimble AMS with Boostr! 
+[Matt Simonis] Boost your admin and developer productivity on Salesforce.com and Nimble AMS with Boostr! 
 Current features include:
 - Ability to search when adding items to a change set
 - Filtering by type when adding to a change set
@@ -13,5 +15,5 @@ Current features include:
 - Using Pascal Case for the API Name when creating new objects and fields
 - Preventing the placeholder text from filling in the setup area sidebar
  
-[Read More at NimbleAMS.com](http://www.nimbleams.com/blog/2016/2/22/a-seriously-nimble-and-free-tool-that-every-salesforce-admin-needs/)
-<div align="center"><img src="http://www.nimbleams.com/media/192520/fieldset-api-names.jpg" width="25%" height="25%"/></div>
+<a href="http://www.nimbleuser.com/blog/a-seriously-nimble-and-free-tool-that-every-salesforce-admin-needs/">Read more at NimbleUser</a>
+<div align="center"><img src="http://www.nimbleuseer.com/uploads/9/4/3/7/94371761/boostr-for-salesforce-and-nimbleams-750x300.jpg" width="25%" height="25%"/></div>

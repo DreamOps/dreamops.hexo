@@ -2,8 +2,8 @@
 title: powered by ...
 ---
 
-[www.NimbleAMS.com](http://www.nimbleams.com/)
-![NimbleAMS](http://www.nimbleams.com/media/182208/NAMS-Logo-Tagline-Color-Med-Res.jpg)
+[www.NimbleUser.com](http://www.nimbleuser.com/)
+![NimbleUser](https://www.nimbleuser.com/uploads/9/4/3/7/94371761/editor/nimble-ams-logo_2.png?1488982452)
 
 <div align="center">The core principles and technologies behind the DreamOps Experience were developed while creating the Nimble AMS managed package.<br />Kudos to NimbleUser for sharing and advancing the knowledge that we all need to enjoy the ride!</div>
 
@@ -25,3 +25,7 @@ title: powered by ...
 
 <div align="center">The DreamOps website is published using the [Hexo framework](https://hexo.io/).
 The website theme is courtesy of [Twitter Bootstrap](http://getbootstrap.com/) and [Freemind](https://github.com/wzpan/hexo-theme-freemind/). </div>
+
+<div align="center">To learn more about the DreamOps Success Group, vist our [About page](/about/index.html).
+
+<div align="center">Website Curator: [Ted Husted](https://www.linkedin.com/in/husted/).</div>

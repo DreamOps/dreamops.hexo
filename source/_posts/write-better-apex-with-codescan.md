@@ -2,7 +2,10 @@
 title: Write Better Apex With CodeScan
 date: 2016-10-20 06:00:00
 categories: Review
-tags: App Building
+tags: 
+ - App Building
+ - Ted Husted
 ---
-As the maker of two managed packages, we have a vested interest in developing the very best code we can. According to Economics of Software Quality (by Caspers Jones), the most effective software quality assurance tools are -- [Read More at NimbleAMS.com](http://www.nimbleams.com/blog/2016/10/20/write-better-apex-with-codescan/)
-<div align="center"><img src="http://www.nimbleams.com/media/221236/2016-oct-mibex.png" width="50%" height="50%"/></div>
+[Ted Husted] As the maker of two managed packages, Nimble AMS hs a vested interest in developing the very best code we can. According to Economics of Software Quality (by Caspers Jones), the most effective software quality assurance tools are (1) static program analysis and (2) peer review. -- [Read more at NimbleUser](http://www.nimbleuser.com/blog/write-better-apex-with-codescan)
+<div align="center"><img src="http://www.nimbleuser.com/uploads/9/4/3/7/94371761/2016-oct-mibex.png" width="50%" height="50%"/></div>
+

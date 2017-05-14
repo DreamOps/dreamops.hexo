@@ -2,9 +2,9 @@
 title: Welcome to DreamOps
 date: 2014-01-05 06:00:00
 category: Review
-tags: DreamOps
+tags: DreamOps Crew
 ---
-Are you ready to to take Force.com development to the next level?
+[DreamOps Crew] Are you ready to to take Force.com development to the next level?
 
 If so, soak up pro tips and techniques, clone some code, hop onto the wiki, and upvote the roadmap.
 
@@ -14,7 +14,7 @@ The **DreamOps Hub** is a set of Git repositories with ready-to-clone code. Logo
 
 The **DreamOps Wiki** on Developerforce catalogs best practices used by Force.com enterprise developers. Explore new practices that  you can use with your own team, and help us grow by sharing your own. -- [DreamOps.org/wiki](/wiki.html)
 
-The **DreamOps Roadmap** is a prioritized list of Force.com Ideas that we believe will push the platform to new heights. Show your support and upvote the ideas today! -- [DreamOps.org/roadmap](/roadmap.html)
+The **DreamOps Roadmap** is a prioritized list of Force.com Ideas that we believe will push the platform to new heights. Show your support and upvote the ideas today! -- [DreamOps.org/roadmap](/roadmap/index.html)
 
 Together, let's take Force.com to new heights, 
 
